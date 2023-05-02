@@ -1,0 +1,13 @@
+.DS_Store
+.vscode
+*.pptx
+._*
+.ipynb_checkpoints
+*.pages
+*.html
+*.pages
+*.zip
+*.jpg
+*.ckpt
+*.7z
+*.pickle
